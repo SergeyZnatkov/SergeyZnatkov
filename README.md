@@ -25,8 +25,6 @@ from theater decorations to fire shows. In the near future, we want to do experi
 
 Contacts:
 
-Telegram-messenger: SERGEY_ZNATKOV
-
 GMail: znatyadeveloper14@gmail.com
 <!---
 SergeyZnatkov/SergeyZnatkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
